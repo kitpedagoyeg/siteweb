@@ -2,7 +2,7 @@
 title: ""
 ---
 
-## Les jeux disponibles 
+## Les jeux disponibles
 
 ### Le jeu de la chaîne alimentaire
 
@@ -15,7 +15,3 @@ Principe : ...
 But du jeu : ...
 
 Principe : ...
-
-## Ressources d'informations supplémentaires 
-
--   Site web de référence sur l'écotoxicologie : [ecotoxicologie.fr](https://ecotoxicologie.fr/)
