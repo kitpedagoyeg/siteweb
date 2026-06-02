@@ -1,0 +1,9 @@
+---
+title: ""
+---
+
+![](images/logo_ecotox.jpg){fig-align="left" width="287"}
+
+-   Présentation générale
+
+-   Objectifs des kits pédagogiques

@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  title: "Kits pédagogiques | YEG"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Accueil
+      - href: kits.qmd
+        text: Nos jeux intelligents
+      - href: team.qmd
+        text: Notre équipe
+      - href: contact.qmd
+        text: Nous contacter ?
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+editor: visual
+
