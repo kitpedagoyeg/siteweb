@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "kits"
 ---
 
 -   Présentations des kits/jeux
