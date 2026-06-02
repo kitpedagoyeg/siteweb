@@ -1,33 +1,5 @@
 [
   {
-    "objectID": "team.html",
-    "href": "team.html",
-    "title": "Kits pédagogiques | YEG",
-    "section": "",
-    "text": "…\n\n\n\n\n\n…"
-  },
-  {
-    "objectID": "team.html#personnes-impliquées",
-    "href": "team.html#personnes-impliquées",
-    "title": "Kits pédagogiques | YEG",
-    "section": "",
-    "text": "…\n\n\n\n\n\n…"
-  },
-  {
-    "objectID": "team.html#le-yeg",
-    "href": "team.html#le-yeg",
-    "title": "Kits pédagogiques | YEG",
-    "section": "Le YEG",
-    "text": "Le YEG\nVous retrouverez ici l’annuaire des membres du groupe."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Bienvenue sur le site dédiés aux kits pédagigiques du YEG (réseau ECOTOX)",
-    "section": "",
-    "text": "Le YEG (réseau ECOTOX) s’implique depuis quelques mois dans la création de jeux intelligents pour sensibiliser sur les questions autour de l’écotoxicologie. Les kits pédagogiques créés visent à …"
-  },
-  {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Kits pédagogiques | YEG",
@@ -56,6 +28,13 @@
     "text": "Questions\n Mail - Questions"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bienvenue sur le site dédiés aux kits pédagigiques du YEG (réseau ECOTOX) - je crois que Sophie a réussi à modifier la page d’accueil (larme d’émotion)",
+    "section": "",
+    "text": "Le YEG (réseau ECOTOX) s’implique depuis quelques mois dans la création de jeux intelligents pour sensibiliser sur les questions autour de l’écotoxicologie. Les kits pédagogiques créés visent à …"
+  },
+  {
     "objectID": "kits.html",
     "href": "kits.html",
     "title": "Kits pédagogiques | YEG",
@@ -75,5 +54,26 @@
     "title": "Kits pédagogiques | YEG",
     "section": "Ressources d’informations supplémentaires",
     "text": "Ressources d’informations supplémentaires\n\nSite web de référence sur l’écotoxicologie : ecotoxicologie.fr"
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Kits pédagogiques | YEG",
+    "section": "",
+    "text": "…\n\n\n\n\n\n…"
+  },
+  {
+    "objectID": "team.html#personnes-impliquées",
+    "href": "team.html#personnes-impliquées",
+    "title": "Kits pédagogiques | YEG",
+    "section": "",
+    "text": "…\n\n\n\n\n\n…"
+  },
+  {
+    "objectID": "team.html#le-yeg",
+    "href": "team.html#le-yeg",
+    "title": "Kits pédagogiques | YEG",
+    "section": "Le YEG",
+    "text": "Le YEG\nVous retrouverez ici l’annuaire des membres du groupe."
   }
 ]
