@@ -2,14 +2,22 @@
 title: ""
 ---
 
-## Contact
+## ● Contact
 
-<a href="mailto:kitpedagogique.yeg@gmail.com?subject=Contact%20YEG"> <button>Mail - Demande de contact</button> </a>
+<a href="mailto:kitpedagogique.yeg@gmail.com?subject=Contact%20YEG"> <button>Envoyer un mail - Contact</button> </a>
 
-## Suggestions
+## ● Suggestions
 
-<a href="mailto:kitpedagogique.yeg@gmail.com?subject=Contact%20YEG"> <button>Mail - Suggestions</button> </a>
+<a href="mailto:kitpedagogique.yeg@gmail.com?subject=Contact%20YEG"> <button>Envoyer un mail - Suggestions</button> </a>
 
-## Questions
+## ● Questions ?
 
-<a href="mailto:kitpedagogique.yeg@gmail.com?subject=Contact%20YEG"> <button>Mail - Questions</button> </a>
+<a href="mailto:kitpedagogique.yeg@gmail.com?subject=Contact%20YEG"> <button>Envoyer un mail - Questions ?</button> </a>
+
+## ● Soutien financier
+
+<a href="mailto:kitpedagogique.yeg@gmail.com?subject=Contact%20YEG"> <button>Envoyer un mail - Soutien financier</button> </a>
+
+## ● Nous rejoindre ?
+
+<a href="mailto:kitpedagogique.yeg@gmail.com?subject=Contact%20YEG"> <button>Envoyer un mail - Nous rejoindre ?</button> </a>

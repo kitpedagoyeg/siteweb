@@ -1,7 +1,13 @@
 ---
-title: "Bienvenue sur le site dédiés aux kits pédagigiques du YEG (réseau ECOTOX) - je crois que Sophie a réussi à modifier la page d'accueil (larme d'émotion)"
+title: "Bienvenue sur le site dédié au kit pédagigique du YEG"
 ---
 
-![](images/logo_ecotox.jpg){fig-align="left" width="159"}
+![](images/logo_ecotox.jpg){fig-align="left" width="120"}
 
-Le [YEG](https://ecotox.hub.inrae.fr/groupe-jeunes) ([réseau ECOTOX](https://ecotox.hub.inrae.fr/le-reseau)) s'implique depuis quelques mois dans la création de jeux intelligents pour sensibiliser sur les questions autour de l'écotoxicologie. Les kits pédagogiques créés visent à ...
+Le [YEG](https://ecotox.hub.inrae.fr/groupe-jeunes) ("Young Ecotoxicologists Group" fondé au sein du [réseau ECOTOX INRAE](https://ecotox.hub.inrae.fr/le-reseau)) s'implique depuis quelques mois dans la création de jeux intelligents autour de l'écotoxicologie. Un kit pédagogique a donc été créé pour sensibiliser différents publics à l'écotoxicologie de manière ludique et adaptée. Un kit est composé de deux jeux distincts :
+
+-   Le jeu de la chaîne alimentaire
+
+-   Le jeu de l'oie contaminée
+
+L'objectif du groupe de travail est donc de mettre à disposition les supports de jeux et d'assurer le prêt des kits édités à l'échelle nationale.

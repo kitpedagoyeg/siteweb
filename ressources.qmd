@@ -2,6 +2,20 @@
 title: ""
 ---
 
-## Ressources d'informations supplémentaires
+## ● Ressources générales sur l'écotoxicologie
 
--   Site web de référence sur l'écotoxicologie : [ecotoxicologie.fr](https://ecotoxicologie.fr/)
+-   Sites web de référence sur l'écotoxicologie :
+
+    ➜ [ecotoxicologie.fr](https://ecotoxicologie.fr/)
+
+-   Livres de références sur l'écotoxicologie :
+
+    ➜ [Écotoxicologie (Faburé et al. 2026)](https://www.dunod.com/sciences-techniques/ecotoxicologie-cours-applications-0)
+
+## ● Ressources sur des thématiques plus spécifiques 
+
+-   ...
+
+<!-- -->
+
+-   ...

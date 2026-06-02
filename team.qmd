@@ -2,16 +2,20 @@
 title: ""
 ---
 
-## Personnes impliquées
+## ● Personnes impliquées
 
 ### Le jeu de la chaîne alimentaire
 
--   ...
+-   Conception : DARDÉ Juliette, DUPONT Sophie, FUENTES Elva, TREVISAN Rafaël
+-   Visuel de la bande-dessinée : TRAN Guillaume
+-   Visuel du tapis de jeu : DUPONT Sophie
+-   FIches d'aide : DARDÉ Juliette
 
 ### Le jeu de l'oie contaminée
 
--   ...
+-   Conception : BELLIER Benjamin, DUPONT Sophie, FUENTES Elva, LE PICARD Coralie, PARNET Clément, PETITJEAN Quentin
+-   Visuel du tapis de jeu : LE PICARD Coralie
 
-## Le YEG
+## ● Les membres du YEG
 
-Vous retrouverez [ici](https://ecotox.hub.inrae.fr/groupe-jeunes/pages-profil) l'annuaire des membres du groupe.
+Vous retrouverez [ici](https://ecotox.hub.inrae.fr/groupe-jeunes/pages-profil) l'annuaire avec tous les membres du groupe.
