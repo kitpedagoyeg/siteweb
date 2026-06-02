@@ -6,8 +6,6 @@ website:
   title: "Kits pédagogiques | YEG"
   navbar:
     left:
-      - href: index.qmd
-        text: Accueil
       - href: kits.qmd
         text: Nos jeux intelligents
       - href: team.qmd
