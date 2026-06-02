@@ -1,21 +1,43 @@
 ---
-title: ""
+title: "Le groupe de travail 'Kit pédagogique' du YEG"
 ---
 
 ## ● Personnes impliquées
 
 ### Le jeu de la chaîne alimentaire
 
--   Conception : DARDÉ Juliette, DUPONT Sophie, FUENTES Elva, TREVISAN Rafaël
+-   Conception (dans l'ordre alphabétique) : DARDÉ Juliette, DUPONT Sophie, FUENTES Elva, TREVISAN Rafaël
 -   Visuel de la bande-dessinée : TRAN Guillaume
 -   Visuel du tapis de jeu : DUPONT Sophie
--   FIches d'aide : DARDÉ Juliette
+-   Fiches d'aide : DARDÉ Juliette
 
 ### Le jeu de l'oie contaminée
 
--   Conception : BELLIER Benjamin, DUPONT Sophie, FUENTES Elva, LE PICARD Coralie, PARNET Clément, PETITJEAN Quentin
+-   Conception (dans l'ordre alphabétique) : BELLIER Benjamin, DUPONT Sophie, FUENTES Elva, LE PICARD Coralie, PARNET Clément, PETITJEAN Quentin
 -   Visuel du tapis de jeu : LE PICARD Coralie
+
+## Soutien des kits créés
+
+Nous remercions nos partenaires financiers et scientifiques qui nous accompagner durant la phase de développement des deux ateliers et la production des premiers kits pédagogiques :
+
+-   [Réseau ECOTOX INRAE](https://ecotox.hub.inrae.fr/)
+
+    ![](images/logo_ecotox.jpg){width="119"}
+
+-   [Association ARET](https://aret.asso.fr/)
+
+    ![](images/logo_aret.png){width="99"}
+
+-   [L'Oiseau plume](https://www.loiseauplume.fr/)
+
+    ![](images/loiseauplume_logo.png)
+
+    *Nous sommes continuellement à la recherche de soutien financier et logistique (communication, partenaires potentiels) pour nous aider à produire d'autres exemplaires du kit et à assurer sa pérennité ! N'hésitez pas à nous écrire sur l'adresse courriel dédiée au kit pédagogique : [kitpedagogique.yeg\@gmail.com](kitpedagogique.yeg@gmail.com)*
+
+    Merci d'avance
 
 ## ● Les membres du YEG
 
 Vous retrouverez [ici](https://ecotox.hub.inrae.fr/groupe-jeunes/pages-profil) l'annuaire avec tous les membres du groupe.
+
+![](images/logo_yeg.png)

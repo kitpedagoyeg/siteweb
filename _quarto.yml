@@ -7,8 +7,10 @@ website:
   title: "YEG | Kit pédagogique"
   navbar:
     left:
-      - href: kits.qmd
-        text: Nos jeux intelligents
+      - href: Jeudelachaine.qmd
+        text: Jeu de la Chaîne alimentaire
+      - href: Jeudeloie.qmd
+        text: Jeu de l'Oie Contaminée     
       - href: ressources.qmd
         text: Besoin de plus d'informations ?
       - href: team.qmd
