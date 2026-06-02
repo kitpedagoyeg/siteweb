@@ -1,24 +1,10 @@
 [
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Propositions/Suggestions\nQuestions"
-  },
-  {
     "objectID": "team.html",
     "href": "team.html",
-    "title": "Notre équipe",
+    "title": "Kits pédagogiques | YEG",
     "section": "",
     "text": "Présentations des personnes\nLiens utiles"
-  },
-  {
-    "objectID": "kits.html",
-    "href": "kits.html",
-    "title": "Nos kits / jeux intelligents",
-    "section": "",
-    "text": "Présentations des kits/jeux\nLiens vers ressources"
   },
   {
     "objectID": "index.html",
@@ -26,5 +12,19 @@
     "title": "Kits pédagogiques | YEG",
     "section": "",
     "text": "Présentation générale\nObjectifs des kits pédagogiques"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Kits pédagogiques | YEG",
+    "section": "",
+    "text": "Propositions/Suggestions\nQuestions"
+  },
+  {
+    "objectID": "kits.html",
+    "href": "kits.html",
+    "title": "Kits pédagogiques | YEG",
+    "section": "",
+    "text": "Présentations des kits/jeux\nLiens vers ressources"
   }
 ]
