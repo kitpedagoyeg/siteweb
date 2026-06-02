@@ -1,9 +1,7 @@
 ---
-title: "index"
+title: "Bienvenue sur le site dédiés aux kits pédagigiques du YEG (réseau ECOTOX)"
 ---
 
-![](images/logo_ecotox.jpg){fig-align="left" width="287"}
+![](images/logo_ecotox.jpg){fig-align="left" width="159"}
 
--   Présentation générale
-
--   Objectifs des kits pédagogiques
+Le [YEG](https://ecotox.hub.inrae.fr/groupe-jeunes) ([réseau ECOTOX](https://ecotox.hub.inrae.fr/le-reseau)) s'implique depuis quelques mois dans la création de jeux intelligents pour sensibiliser sur les questions autour de l'écotoxicologie. Les kits pédagogiques créés visent à ...

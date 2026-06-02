@@ -2,6 +2,14 @@
 title: "contact"
 ---
 
--   Propositions/Suggestions
+## Contact
 
--   Questions
+<a href="mailto:kitpedagogique.yeg@gmail.com?subject=Contact%20YEG"> <button>Mail - Demande de contact</button> </a>
+
+## Suggestions
+
+<a href="mailto:kitpedagogique.yeg@gmail.com?subject=Contact%20YEG"> <button>Mail - Suggestions</button> </a>
+
+## Questions
+
+<a href="mailto:kitpedagogique.yeg@gmail.com?subject=Contact%20YEG"> <button>Mail - Questions</button> </a>

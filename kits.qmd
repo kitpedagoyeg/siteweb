@@ -2,6 +2,20 @@
 title: "kits"
 ---
 
--   Présentations des kits/jeux
+## Les jeux disponibles 
 
--   Liens vers ressources
+### Le jeu de la chaîne alimentaire
+
+But du jeu : ...
+
+Principe : ...
+
+### Le jeu de l'oie contaminée
+
+But du jeu : ...
+
+Principe : ...
+
+## Ressources d'informations supplémentaires 
+
+-   Site web de référence sur l'écotoxicologie : [ecotoxicologie.fr](https://ecotoxicologie.fr/)

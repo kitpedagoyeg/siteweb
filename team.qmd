@@ -2,6 +2,16 @@
 title: "team"
 ---
 
--   Présentations des personnes
+## Personnes impliquées 
 
--   Liens utiles
+### Le jeu de la chaîne alimentaire
+
+-   ...
+
+### Le jeu de l'oie contaminée
+
+-   ...
+
+## Le YEG
+
+Vous retrouverez [ici](https://ecotox.hub.inrae.fr/groupe-jeunes/pages-profil) l'annuaire des membres du groupe.
