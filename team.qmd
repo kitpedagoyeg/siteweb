@@ -1,17 +1,17 @@
 ---
-title: "Le groupe de travail 'Kit pédagogique' du YEG"
+title: "L'équipe"
 ---
 
-## ● Personnes impliquées
+## ● Membres du groupe de travail 'Kit pédagogique' du YEG
 
-### Le jeu de la Chaîne Alimentaire
+### Jeu de la Chaîne alimentaire
 
 -   Conception (dans l'ordre alphabétique) : DARDÉ Juliette, DUPONT Sophie, FUENTES Elva, TREVISAN Rafaël
 -   Visuel de la bande-dessinée : TRAN Guillaume
 -   Visuel du tapis de jeu : DUPONT Sophie
 -   Fiches d'aide : DARDÉ Juliette
 
-### Le jeu de l'Oie Contaminée
+### Jeu de l'Oie contaminée
 
 -   Conception (dans l'ordre alphabétique) : BELLIER Benjamin, DUPONT Sophie, FUENTES Elva, LE PICARD Coralie, PARNET Clément, PETITJEAN Quentin
 -   Visuel du tapis de jeu : LE PICARD Coralie
@@ -21,9 +21,9 @@ title: "Le groupe de travail 'Kit pédagogique' du YEG"
 -   Conception : BELLIER Benjamin, DUPONT Sophie
 -   Administrateurs : BELLIER Benjamin, DUPONT Sophie, FUENTES Elva, LE PICARD Coralie
 
-## ● Soutien des kits créés
+## ● Soutiens financiers et scientifiques / Partenaires
 
-Nous remercions nos partenaires financiers et scientifiques qui nous accompagner durant la phase de développement des deux ateliers et la production des premiers kits pédagogiques :
+Nous remercions nos partenaires financiers et scientifiques qui nous ont accompagné durant la phase de développement des deux jeux et la production des premiers kits pédagogiques :
 
 -   [Réseau ECOTOX INRAE](https://ecotox.hub.inrae.fr/)
 
@@ -41,7 +41,7 @@ Nous remercions nos partenaires financiers et scientifiques qui nous accompagner
 
 *Merci d'avance !*
 
-## ● Les membres du YEG
+## ● Annuaire du YEG
 
 Vous retrouverez [ici](https://ecotox.hub.inrae.fr/groupe-jeunes/pages-profil) l'annuaire avec tous les membres du groupe.
 

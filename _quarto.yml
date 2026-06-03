@@ -11,17 +11,17 @@ website:
     title: false
     left:
       - href: jeudelachaine.qmd
-        text: Jeu de la Chaîne Alimentaire
+        text: Jeu de la Chaîne alimentaire
       - href: jeudeloie.qmd
-        text: Jeu de l'Oie Contaminée
+        text: Jeu de l'Oie contaminée
       - href: team.qmd
         text: Notre équipe
       - href: animations.qmd
         text: Nos animations 
       - href: ressources.qmd
-        text: Besoin de plus d'informations ?
+        text: Pour aller plus loin...
       - href: contact.qmd
-        text: Nous contacter ?
+        text: Nous contacter
     right:
       - text: "<img src='images/logo_ecotox.ico' height='24' alt='Réseau ECOTOX INRAE'>"
         href: https://ecotox.hub.inrae.fr/le-reseau
