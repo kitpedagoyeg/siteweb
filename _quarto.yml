@@ -17,7 +17,7 @@ website:
       - href: team.qmd
         text: Notre équipe
       - href: animations.qmd
-        text: Les animations effectuées
+        text: Nos animations 
       - href: ressources.qmd
         text: Besoin de plus d'informations ?
       - href: contact.qmd
