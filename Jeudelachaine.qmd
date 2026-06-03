@@ -1,5 +1,5 @@
 ---
-title: "Jeu de la Chaîne alimentaire"
+title: "Jeu de la Chaîne Alimentaire"
 ---
 
 ### ![](images/logo_chaine.jpg)
@@ -25,3 +25,9 @@ title: "Jeu de la Chaîne alimentaire"
 -   Plusieurs niveaux de difficultés (via des pastilles de contamination uni- ou multicolores)
 
 -   Bande dessinée d'accompagnement pour l'introduction et la conclusion de cet atelier
+
+**Matériels utilisés** **:** soon
+
+**Vidéo explicative :** soon
+
+**Print & Play** **:** soon

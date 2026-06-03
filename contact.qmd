@@ -2,22 +2,38 @@
 title: ""
 ---
 
-## ● Contact
+```{=html}
+<style>
+.yeg-contact{display:grid;grid-template-columns:repeat(2,1fr);gap:1.2rem;max-width:760px;margin:2rem auto;}
+.yeg-card{display:flex;flex-direction:column;align-items:center;text-align:center;gap:.8rem;padding:1.6rem 1.2rem;border:1px solid #E0E6E0;border-radius:14px;background:#FFFFFF;box-shadow:0 2px 6px rgba(0,0,0,.04);transition:transform .15s ease,box-shadow .15s ease;}
+.yeg-card:hover{transform:translateY(-4px);box-shadow:0 8px 20px rgba(0,0,0,.08);}
+.yeg-icon{font-size:2.2rem;line-height:1;}
+.yeg-title{font-weight:600;font-size:1.05rem;color:#009900;}
+.yeg-card a{margin-top:auto;text-decoration:none;}
+.yeg-btn{display:inline-block;padding:.55rem 1.1rem;border:none;border-radius:8px;background:#009900;color:#FFFFFF;font-size:.9rem;cursor:pointer;transition:background .15s ease;}
+.yeg-btn:hover{background:#39C90C;}
+</style>
 
-<a href="mailto:kitpedagogique.yeg@gmail.com?subject=Contact%20YEG"> <button>Envoyer un mail - Contact</button> </a>
-
-## ● Suggestions
-
-<a href="mailto:kitpedagogique.yeg@gmail.com?subject=Contact%20YEG"> <button>Envoyer un mail - Suggestions</button> </a>
-
-## ● Questions ?
-
-<a href="mailto:kitpedagogique.yeg@gmail.com?subject=Contact%20YEG"> <button>Envoyer un mail - Questions ?</button> </a>
-
-## ● Soutien financier
-
-<a href="mailto:kitpedagogique.yeg@gmail.com?subject=Contact%20YEG"> <button>Envoyer un mail - Soutien financier</button> </a>
-
-## ● Nous rejoindre ?
-
-<a href="mailto:kitpedagogique.yeg@gmail.com?subject=Contact%20YEG"> <button>Envoyer un mail - Nous rejoindre ?</button> </a>
+<div class="yeg-contact">
+  <div class="yeg-card">
+    <div class="yeg-icon">💡</div>
+    <div class="yeg-title">Suggestions</div>
+    <a href="mailto:kitpedagogique.yeg@gmail.com?subject=Suggestions%20YEG"><button class="yeg-btn">Envoyer un mail</button></a>
+  </div>
+  <div class="yeg-card">
+    <div class="yeg-icon">❓</div>
+    <div class="yeg-title">Questions ?</div>
+    <a href="mailto:kitpedagogique.yeg@gmail.com?subject=Questions%20YEG"><button class="yeg-btn">Envoyer un mail</button></a>
+  </div>
+  <div class="yeg-card">
+    <div class="yeg-icon">💶</div>
+    <div class="yeg-title">Soutien financier</div>
+    <a href="mailto:kitpedagogique.yeg@gmail.com?subject=Soutien%20YEG"><button class="yeg-btn">Envoyer un mail</button></a>
+  </div>
+  <div class="yeg-card">
+    <div class="yeg-icon">🤝</div>
+    <div class="yeg-title">Nous rejoindre ?</div>
+    <a href="mailto:kitpedagogique.yeg@gmail.com?subject=Rejoindre%20YEG"><button class="yeg-btn">Envoyer un mail</button></a>
+  </div>
+</div>
+```

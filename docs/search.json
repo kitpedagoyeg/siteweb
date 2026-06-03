@@ -1,108 +1,24 @@
 [
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "YEG | Kit pédagogique",
-    "section": "",
-    "text": "Envoyer un mail - Contact"
-  },
-  {
-    "objectID": "contact.html#contact",
-    "href": "contact.html#contact",
-    "title": "YEG | Kit pédagogique",
-    "section": "",
-    "text": "Envoyer un mail - Contact"
-  },
-  {
-    "objectID": "contact.html#suggestions",
-    "href": "contact.html#suggestions",
-    "title": "YEG | Kit pédagogique",
-    "section": "● Suggestions",
-    "text": "● Suggestions\n Envoyer un mail - Suggestions"
-  },
-  {
-    "objectID": "contact.html#questions",
-    "href": "contact.html#questions",
-    "title": "YEG | Kit pédagogique",
-    "section": "● Questions ?",
-    "text": "● Questions ?\n Envoyer un mail - Questions ?"
-  },
-  {
-    "objectID": "contact.html#soutien-financier",
-    "href": "contact.html#soutien-financier",
-    "title": "YEG | Kit pédagogique",
-    "section": "● Soutien financier",
-    "text": "● Soutien financier\n Envoyer un mail - Soutien financier"
-  },
-  {
-    "objectID": "contact.html#nous-rejoindre",
-    "href": "contact.html#nous-rejoindre",
-    "title": "YEG | Kit pédagogique",
-    "section": "● Nous rejoindre ?",
-    "text": "● Nous rejoindre ?\n Envoyer un mail - Nous rejoindre ?"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Bienvenue sur le site dédié au Kit Pédagogique du YEG",
-    "section": "",
-    "text": "Huit jeunes chercheur.es du YEG (“Young Ecotoxicologists Group” fondé au sein du réseau ECOTOX INRAE) s’impliquent depuis plusieurs mois dans la création de jeux intelligents autour de l’écotoxicologie.\nL’objectif est la création d’un kit pédagogique pour sensibiliser les différents publics à l’écotoxicologie de manière ludique et adaptée selon leur âge.\nUn kit est composé de deux ateliers indépendants :\n\nLe Jeu de la chaîne alimentaire\nLe Jeu de l’oie contaminée\n\nL’objectif du groupe de travail est de mettre à disposition gratuitement les supports de jeux et d’assurer le prêt des kits édités à l’échelle nationale. N’hésitez pas à nous écrire pour réserver votre période de prêt !"
-  },
-  {
-    "objectID": "Jeudelachaine.html",
-    "href": "Jeudelachaine.html",
-    "title": "Jeu de la Chaîne alimentaire",
-    "section": "",
-    "text": "Public visé : Primaire (de CP à CM)\nBut du jeu : Dans ce jeu, vous devez reconstituer une chaîne alimentaire soumise à trois sources de contamination (ville, industrie, agriculture) et retracer la pollution le long de cette chaîne afin de comprendre les différentes voies de contamination.\nIntérêts :\n\nComprendre les interactions trophiques\nAppréhender les voies d’exposition à la pollution\nSensibiliser à l’impact des différents milieux et pratiques humaines sur la contamination des organismes\n\n\n\n\n\n\nSpécificités :\n\n10 chaînes alimentaires proposées (aquatiques, terrestres ou mixtes, couvrant tous les écosystèmes existants)\nPlusieurs niveaux de difficultés (via des pastilles de contamination uni- ou multicolores)\nBande dessinée d’accompagnement pour l’introduction et la conclusion de cet atelier"
-  },
-  {
-    "objectID": "Jeudeloie.html",
-    "href": "Jeudeloie.html",
-    "title": "Jeu de l’Oie Contaminée",
-    "section": "",
-    "text": "Public visé : Collège et +\nBut du jeu : Dans ce jeu, vous incarnez un organisme vivant qui traverse différents milieux et habitats. L’objectif est de rejoindre la case “ARRIVÉE” en ayant le moins de billes de pollution dans votre récipient individuel.\nIntérêts :\n\nSensibiliser aux notions de contamination, de polluants et de leur distribution/transfert/devenir dans l’environnement\nIntroduire des notions de base de chimie, d’écotoxicologie, et des impacts environnementaux des polluants\nEncourager la réflexion collective et la prise de décisions stratégiques\n\n\nSpécificités :\n\nPlusieurs chaînes alimentaires proposées (total de 10 : aquatiques, terrestres ou mixtes couvrant tous les écosystèmes existants)\nPlusieurs niveaux de difficultés\nBande dessinée d’accompagnement pour l’introduction et la conclusion"
-  },
-  {
-    "objectID": "ressources.html",
-    "href": "ressources.html",
-    "title": "YEG | Kit pédagogique",
-    "section": "",
-    "text": "Sites web de référence sur l’écotoxicologie :\n➜ ecotoxicologie.fr\nLivres de références sur l’écotoxicologie :\n➜ Écotoxicologie (Faburé et al. 2026)"
-  },
-  {
-    "objectID": "ressources.html#ressources-générales-sur-lécotoxicologie",
-    "href": "ressources.html#ressources-générales-sur-lécotoxicologie",
-    "title": "YEG | Kit pédagogique",
-    "section": "",
-    "text": "Sites web de référence sur l’écotoxicologie :\n➜ ecotoxicologie.fr\nLivres de références sur l’écotoxicologie :\n➜ Écotoxicologie (Faburé et al. 2026)"
-  },
-  {
-    "objectID": "ressources.html#ressources-sur-des-thématiques-plus-spécifiques",
-    "href": "ressources.html#ressources-sur-des-thématiques-plus-spécifiques",
-    "title": "YEG | Kit pédagogique",
-    "section": "● Ressources sur des thématiques plus spécifiques",
-    "text": "● Ressources sur des thématiques plus spécifiques\n\n…\n…"
-  },
-  {
     "objectID": "team.html",
     "href": "team.html",
     "title": "Le groupe de travail ‘Kit pédagogique’ du YEG",
     "section": "",
-    "text": "Conception (dans l’ordre alphabétique) : DARDÉ Juliette, DUPONT Sophie, FUENTES Elva, TREVISAN Rafaël\nVisuel de la bande-dessinée : TRAN Guillaume\nVisuel du tapis de jeu : DUPONT Sophie\nFiches d’aide : DARDÉ Juliette\n\n\n\n\n\nConception (dans l’ordre alphabétique) : BELLIER Benjamin, DUPONT Sophie, FUENTES Elva, LE PICARD Coralie, PARNET Clément, PETITJEAN Quentin\nVisuel du tapis de jeu : LE PICARD Coralie"
+    "text": "Conception (dans l’ordre alphabétique) : DARDÉ Juliette, DUPONT Sophie, FUENTES Elva, TREVISAN Rafaël\nVisuel de la bande-dessinée : TRAN Guillaume\nVisuel du tapis de jeu : DUPONT Sophie\nFiches d’aide : DARDÉ Juliette\n\n\n\n\n\nConception (dans l’ordre alphabétique) : BELLIER Benjamin, DUPONT Sophie, FUENTES Elva, LE PICARD Coralie, PARNET Clément, PETITJEAN Quentin\nVisuel du tapis de jeu : LE PICARD Coralie\n\n\n\n\n\nConception : BELLIER Benjamin, DUPONT Sophie\nAdministrateurs : BELLIER Benjamin, DUPONT Sophie, FUENTES Elva, LE PICARD Coralie"
   },
   {
     "objectID": "team.html#personnes-impliquées",
     "href": "team.html#personnes-impliquées",
     "title": "Le groupe de travail ‘Kit pédagogique’ du YEG",
     "section": "",
-    "text": "Conception (dans l’ordre alphabétique) : DARDÉ Juliette, DUPONT Sophie, FUENTES Elva, TREVISAN Rafaël\nVisuel de la bande-dessinée : TRAN Guillaume\nVisuel du tapis de jeu : DUPONT Sophie\nFiches d’aide : DARDÉ Juliette\n\n\n\n\n\nConception (dans l’ordre alphabétique) : BELLIER Benjamin, DUPONT Sophie, FUENTES Elva, LE PICARD Coralie, PARNET Clément, PETITJEAN Quentin\nVisuel du tapis de jeu : LE PICARD Coralie"
+    "text": "Conception (dans l’ordre alphabétique) : DARDÉ Juliette, DUPONT Sophie, FUENTES Elva, TREVISAN Rafaël\nVisuel de la bande-dessinée : TRAN Guillaume\nVisuel du tapis de jeu : DUPONT Sophie\nFiches d’aide : DARDÉ Juliette\n\n\n\n\n\nConception (dans l’ordre alphabétique) : BELLIER Benjamin, DUPONT Sophie, FUENTES Elva, LE PICARD Coralie, PARNET Clément, PETITJEAN Quentin\nVisuel du tapis de jeu : LE PICARD Coralie\n\n\n\n\n\nConception : BELLIER Benjamin, DUPONT Sophie\nAdministrateurs : BELLIER Benjamin, DUPONT Sophie, FUENTES Elva, LE PICARD Coralie"
   },
   {
     "objectID": "team.html#soutien-des-kits-créés",
     "href": "team.html#soutien-des-kits-créés",
     "title": "Le groupe de travail ‘Kit pédagogique’ du YEG",
-    "section": "Soutien des kits créés",
-    "text": "Soutien des kits créés\nNous remercions nos partenaires financiers et scientifiques qui nous accompagner durant la phase de développement des deux ateliers et la production des premiers kits pédagogiques :\n\nRéseau ECOTOX INRAE\n\nAssociation ARET\n\nL’Oiseau plume\n\nNous sommes continuellement à la recherche de soutien financier et logistique (communication, partenaires potentiels) pour nous aider à produire d’autres exemplaires du kit et à assurer sa pérennité ! N’hésitez pas à nous écrire sur l’adresse courriel dédiée au kit pédagogique : kitpedagogique.yeg@gmail.com\nMerci d’avance"
+    "section": "● Soutien des kits créés",
+    "text": "● Soutien des kits créés\nNous remercions nos partenaires financiers et scientifiques qui nous accompagner durant la phase de développement des deux ateliers et la production des premiers kits pédagogiques :\n\nRéseau ECOTOX INRAE\n\nAssociation ARET\n\nL’Oiseau plume\n\n\nNous sommes continuellement à la recherche de soutien financier et logistique (communication, partenaires potentiels) pour nous aider à produire d’autres exemplaires du kit et à assurer sa pérennité ! N’hésitez pas à nous écrire sur l’adresse courriel dédiée au kit pédagogique : kitpedagogique.yeg@gmail.com\nMerci d’avance !"
   },
   {
     "objectID": "team.html#les-membres-du-yeg",
@@ -110,5 +26,54 @@
     "title": "Le groupe de travail ‘Kit pédagogique’ du YEG",
     "section": "● Les membres du YEG",
     "text": "● Les membres du YEG\nVous retrouverez ici l’annuaire avec tous les membres du groupe."
+  },
+  {
+    "objectID": "jeudeloie.html",
+    "href": "jeudeloie.html",
+    "title": "Jeu de l’Oie Contaminée",
+    "section": "",
+    "text": "Public visé : Collège et +\nBut du jeu : Dans ce jeu, vous incarnez un organisme vivant qui traverse différents milieux et habitats. L’objectif est de rejoindre la case “ARRIVÉE” en ayant le moins de billes de pollution dans votre récipient individuel.\nIntérêts :\n\nSensibiliser aux notions de contamination, de polluants et de leur distribution/transfert/devenir dans l’environnement\nIntroduire des notions de base de chimie, d’écotoxicologie, et des impacts environnementaux des polluants\nEncourager la réflexion collective et la prise de décisions stratégiques\n\n\nSpécificités :\n\nSensibiliser aux notions de contamination, de polluants et de leur distribution/transfert/devenir dans l’environnement\nIntroduire des notions de base de chimie, d’écotoxicologie, et des impacts environnementaux des polluants\nEncourager la réflexion collective et la prise de décisions stratégiques\n\nMatériels utilisés : soon\nVidéo explicative : soon\nPrint & Play : soon"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bienvenue sur le site dédié au Kit Pédagogique du YEG",
+    "section": "",
+    "text": "Huit jeunes chercheur.es du YEG (“Young Ecotoxicologists Group” fondé au sein du réseau ECOTOX INRAE) s’impliquent depuis plusieurs mois dans la création de jeux intelligents autour de l’écotoxicologie.\n\n \n\nL’objectif est la création d’un kit pédagogique pour sensibiliser les différents publics à l’écotoxicologie de manière ludique et adaptée selon leur âge.\nUn kit est composé de deux ateliers indépendants :\n\nLe Jeu de la Chaîne Alimentaire\nLe Jeu de l’Oie Contaminée\n\nL’objectif du groupe de travail est de mettre à disposition gratuitement les supports de jeux et d’assurer le prêt des kits édités à l’échelle nationale. N’hésitez pas à nous écrire pour réserver votre période de prêt !"
+  },
+  {
+    "objectID": "animations.html",
+    "href": "animations.html",
+    "title": "Les animations effectuées",
+    "section": "",
+    "text": "➜ Évènement 1\n➜ Évènement 2"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "YEG | Kit pédagogique",
+    "section": "",
+    "text": "💡\n    Suggestions\n    Envoyer un mail\n  \n  \n    ❓\n    Questions ?\n    Envoyer un mail\n  \n  \n    💶\n    Soutien financier\n    Envoyer un mail\n  \n  \n    🤝\n    Nous rejoindre ?\n    Envoyer un mail"
+  },
+  {
+    "objectID": "jeudelachaine.html",
+    "href": "jeudelachaine.html",
+    "title": "Jeu de la Chaîne Alimentaire",
+    "section": "",
+    "text": "Public visé : Primaire (de CP à CM)\nBut du jeu : Dans ce jeu, vous devez reconstituer une chaîne alimentaire soumise à trois sources de contamination (ville, industrie, agriculture) et retracer la pollution le long de cette chaîne afin de comprendre les différentes voies de contamination.\nIntérêts :\n\nComprendre les interactions trophiques\nAppréhender les voies d’exposition à la pollution\nSensibiliser à l’impact des différents milieux et pratiques humaines sur la contamination des organismes\n\n\n\n\n\n\nSpécificités :\n\n10 chaînes alimentaires proposées (aquatiques, terrestres ou mixtes, couvrant tous les écosystèmes existants)\nPlusieurs niveaux de difficultés (via des pastilles de contamination uni- ou multicolores)\nBande dessinée d’accompagnement pour l’introduction et la conclusion de cet atelier\n\nMatériels utilisés : soon\nVidéo explicative : soon\nPrint & Play : soon"
+  },
+  {
+    "objectID": "ressources.html",
+    "href": "ressources.html",
+    "title": "YEG | Kit pédagogique",
+    "section": "",
+    "text": "➜ Site web : ecotoxicologie.fr\n➜ Livre : Écotoxicologie (Faburé et al. 2026)\n➜ Podcast : Lumière sur… L’écotoxicolgie (2022)"
+  },
+  {
+    "objectID": "ressources.html#ressources-générales-sur-lécotoxicologie",
+    "href": "ressources.html#ressources-générales-sur-lécotoxicologie",
+    "title": "YEG | Kit pédagogique",
+    "section": "",
+    "text": "➜ Site web : ecotoxicologie.fr\n➜ Livre : Écotoxicologie (Faburé et al. 2026)\n➜ Podcast : Lumière sur… L’écotoxicolgie (2022)"
   }
 ]

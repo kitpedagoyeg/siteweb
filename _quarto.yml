@@ -1,22 +1,40 @@
 project:
   type: website
   output-dir: docs
-
+  
 website:
   favicon: images/logo_ecotox.ico
   title: "YEG | Kit pédagogique"
+  search: false
   navbar:
+    logo: images/logo_kit_peda_yeg.ico
+    title: false
     left:
-      - href: Jeudelachaine.qmd
-        text: Jeu de la Chaîne alimentaire
-      - href: Jeudeloie.qmd
-        text: Jeu de l'Oie Contaminée     
-      - href: ressources.qmd
-        text: Besoin de plus d'informations ?
+      - href: jeudelachaine.qmd
+        text: Jeu de la Chaîne Alimentaire
+      - href: jeudeloie.qmd
+        text: Jeu de l'Oie Contaminée
       - href: team.qmd
         text: Notre équipe
+      - href: animations.qmd
+        text: Les animations effectuées
+      - href: ressources.qmd
+        text: Besoin de plus d'informations ?
       - href: contact.qmd
         text: Nous contacter ?
+    right:
+      - text: "<img src='images/logo_ecotox.ico' height='24' alt='Réseau ECOTOX INRAE'>"
+        href: https://ecotox.hub.inrae.fr/le-reseau
+      - text: "<img src='images/logo_yeg.ico' height='24' alt='Le YEG'>"
+        href: https://ecotox.hub.inrae.fr/groupe-jeunes
+      - icon: github
+        href: https://github.com/kitpedagoyeg/siteweb
+        aria-label: GitHub
+  page-footer:
+    border: true
+    background: light
+    center:
+      - text: "© 2026 Young Ecotoxicologists Group (YEG) <br> Kit Pédagogique <br> Site créé avec R, RStudio, Quarto, Git et GitHub <br> Certains logos peuvent avoir été générés en partie avec de l'IA"
 
 format:
   html:
@@ -25,6 +43,5 @@ format:
       - brand
     css: styles.css
     toc: false
-
+    
 editor: visual
-
