@@ -16,6 +16,10 @@ title: "Les animations effectuées"
 
 ![](images/PXL_20251003_072501845.jpg){fig-align="center" width="331"}
 
+::: {style="display:flex; justify-content:center; align-items:center; gap:2rem;"}
 ![](images/PXL_20251003_072531394~2.jpg){width="329"}
 
 ![](images/PXL_20251003_072626425.jpg){width="280"}
+:::
+
+
