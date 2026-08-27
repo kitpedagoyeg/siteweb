@@ -36,11 +36,7 @@ Nous remercions nos partenaires financiers et scientifiques qui nous ont accompa
 -   [Fondation Evertéa](https://fondationevertea.org/)
 
     ![](images/logo_evertea.png){width="99"}
-<<<<<<< HEAD
 
-=======
-    
->>>>>>> 047efe39dbe764a695f86515149a04c6dbbf84ca
 -   [L'Oiseau plume](https://www.loiseauplume.fr/)
 
     ![](images/logo_loiseauplume.png){width="142"}
